@@ -1,1 +1,2 @@
-https://iruys.github.io/stats-preview-card-component-main---Copy/
+https://iruys.github.io/stats-preview-card-component-main
+
